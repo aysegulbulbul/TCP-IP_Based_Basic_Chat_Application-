@@ -1,0 +1,10 @@
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Ayşegül BÜLBÜL\Desktop\Chat\Chat\Chat\obj\Debug\Chat.pdb
